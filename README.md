@@ -15,6 +15,7 @@ Cara Instal di termux:
 - git clone https://github.com/wongmu/protectpy3 
 - pip3 install rsa 
 - pip3 install thrift==0.9.3 
+- pip3 install humanfriendly
 - pip3 install requests 
 - cd protectpy3
 - python3 protectpy3.py
