@@ -35,7 +35,7 @@ Cara Install Self ProtectPy3 di c9:
 
 
 Credit By Eva. 
-- Add My ID LINE : line.me/ti/p/~mamanggd 
+- Add My ID LINE : https://line.me/ti/p/~mamanggd 
 
 
 Thx To : 
