@@ -5,7 +5,8 @@ Kelebihan :
 2. Command Bisa Dipakai oleh Orang Admin/Self 
 3. Bot Tidak Saling Kick Ketika Ada Yang Terkick 
 4. Jika Ingin lebih dari 1 bot bisa ditambahkan sendiri 
-Kelemahan: 
+
+- Kelemahan: 
 - BOT Tidak Aktif Ketika Bot Induk Tidak ada di Dalam Group 
 
 Cara Instal di termux: 
