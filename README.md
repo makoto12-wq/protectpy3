@@ -23,23 +23,23 @@ Cara Instal di termux:
 Cara Install Self ProtectPy3 di c9: 
 - apt update 
 - apt install git 
--> apt install python3 
--> apt install pip3==python3 
--> pip3 install rsa 
--> pip3 install thrift 
--> pip3 install requests 
--> pip3 install humanfriendly 
--> git clone https://github.com/wongmu/protectpy3 
--> cd protectpy3 
--> python3 protectpy3.py 
+- apt install python3 
+- apt install pip3==python3 
+- pip3 install rsa 
+- pip3 install thrift 
+- pip3 install requests 
+- pip3 install humanfriendly 
+- git clone https://github.com/wongmu/protectpy3 
+- cd protectpy3 
+- python3 protectpy3.py 
 
 
 Credit By Eva. 
-Add My ID LINE : mamanggd 
+- Add My ID LINE : mamanggd 
 
 
 Thx To : 
-LINE-TCR TEAM 
-HELLO-WORLD 
-Nadya Sutjiadi
-iiipuuul
+- LINE-TCR TEAM 
+- HELLO-WORLD 
+- Nadya Sutjiadi
+- iiipuuul
