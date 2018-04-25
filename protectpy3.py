@@ -21,7 +21,7 @@ import requests,urllib,json
 #cl.log("Timeline Token : " + str(cl.tl.channelAccessToken))
 
 #Khusus Lpgin Token
-cl = LINE('EsFPDoNSkoXhyfBnqsD8.vO1KWJpgWGTqjpWUJceu2a.jdKaFE1/zrPgwKHTq8xExAlV7V8+wApt0+Lm7k10BP8=')
+cl = LINE('YOUR_TOKEN')
 cl.log("Auth Token : " + str(cl.authToken))
 cl.log("Timeline Token : " + str(cl.tl.channelAccessToken))
 
