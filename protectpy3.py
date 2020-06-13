@@ -16,14 +16,14 @@ import requests,urllib,json
 
 
 #Khusus Login Qr
-#cl = LINE()
-#cl.log("Auth Token : " + str(cl.authToken))
-#cl.log("Timeline Token : " + str(cl.tl.channelAccessToken))
-
-#Khusus Lpgin Token
-cl = LINE('YOUR_TOKEN')
+cl = LINE()
 cl.log("Auth Token : " + str(cl.authToken))
 cl.log("Timeline Token : " + str(cl.tl.channelAccessToken))
+
+#Khusus Lpgin Token
+#cl = LINE('YOUR_TOKEN')
+#cl.log("Auth Token : " + str(cl.authToken))
+#cl.log("Timeline Token : " + str(cl.tl.channelAccessToken))
 
 
 
